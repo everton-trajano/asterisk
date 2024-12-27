@@ -1,0 +1,4 @@
+#!/bin/sh
+contrib/scripts/get_mp3_source.sh
+contrib/scripts/install_prereq install
+./configure

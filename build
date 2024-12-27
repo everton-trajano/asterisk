@@ -1,0 +1,2 @@
+#!/bin/zsh
+docker build -f ./buildfiles/asterisk.Dockerfile -t evertonp9/asterisk:0.1 ./
